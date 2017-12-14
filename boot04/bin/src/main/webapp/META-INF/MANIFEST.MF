@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: boot04
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: duckk
+Implementation-Vendor-Id: com.zerock
+Build-Jdk: 1.8.0_73
+Implementation-URL: http://projects.spring.io/spring-boot/spring-boot-
+ starter-parent/boot04/
+Created-By: Maven Integration for Eclipse
+

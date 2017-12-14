@@ -49,6 +49,7 @@ public class FreeBoardTests {
 			board.setContent("Free content.... "+i);
 			board.setWriter("user "+i);
 			boardRepo.save(board);
+			log.info("dd");
 		});
 	}
 	@Transactional
